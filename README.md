@@ -12,3 +12,4 @@
 5. Recognizing Pose Similarity in Images and Videos https://ai.googleblog.com/2021/01/recognizing-pose-similarity-in-images.html
 6. MT-DNN: https://github.com/microsoft/MT-DNN
 7. Context-Based Quotation Recommendation: https://arxiv.org/pdf/2005.08319.pdf
+8. Deep learning for automated sleep staging using instantaneous heart rate https://www.nature.com/articles/s41746-020-0291-x.pdf
