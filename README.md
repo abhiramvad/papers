@@ -2,7 +2,7 @@
 ### This repo is updated on a regular basis to keep track of the research papers I come across. 
 ### This helps me to motivate myself to regularly update myself about what's happening in these fields and use these as a stepping stone for a project.
 
-### Feel free to raise a contributing if you find anything worth adding in this list :) 
+### Feel free to raise a contribution if you find anything worth adding in this list :) 
 
 
 1. Federated Learning: https://ai.googleblog.com/2017/04/federated-learning-collaborative.html 
@@ -13,3 +13,4 @@
 6. MT-DNN: https://github.com/microsoft/MT-DNN
 7. Context-Based Quotation Recommendation: https://arxiv.org/pdf/2005.08319.pdf
 8. Deep learning for automated sleep staging using instantaneous heart rate https://www.nature.com/articles/s41746-020-0291-x.pdf
+9. Growing and serving large open domain knowledge graphs - https://arxiv.org/pdf/2305.09464.pdf  - Shallow embedding models vs Deep embedding models, semantic annotation, Global knowledge enrichment, on device ML
